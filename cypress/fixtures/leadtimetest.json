@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "data": [
+    {
+      "dc": "207",
+      "value": "This product will ship in 18-24 days.",
+      "lead_time": "This product will ship in 18-24 days.",
+      "pre_order": "N",
+      "sku": "50406",
+      "status": "IN STOCK",
+      "state": "FL",
+      "default_leadtime": "This product will ship in 19-25 days."
+    }
+  ]
+}

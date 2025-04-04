@@ -1,0 +1,167 @@
+{
+  "success": true,
+  "price_data_status": [
+    {
+      "product_id": "8849910918",
+      "tags": "$500 - $999, additional, BestDeals_NovEvents, Bestseller, BF20%, Black Friday Special Deal 1, BMSM, BMSM_Revised, Cabinet Type: Base Cabinets, Category: Garage, Color: Black, Color: Gray, Color: Platinum, Color: Red, Configurations: Individual Cabinets, Deals & Sales: Best Seller, Door Colour: Black, Door Colour: Charcoal Gray, Door Colour: Deep Red, Door Colour: Platinum, Features: Large Storage Solutions, Features: Locker Included, garage cabinets, garage multi use locker, Gauge Thickness: 18-gauge (Best), Green Monday Under $1000, Holiday Wishlist under $2000, Individual, Individual_product, Memorial 20%, Offer_4, PIP Status: Redesign, PREBF20, Pro Series Individuals, Product Line: Pro, Product Type: Cabinets, Product Type: Lockers, Product Type: Storage Cabinets, right_swatch_dropdown, Series: Pro, Spring Cleaning 1, Subcategory: Garage Cabinets, Subcategory: Garage Storage, Volume_locker_pricing",
+      "title": "Pro Series 36 In. Multi-Use Locker",
+      "url": "pro-series-3-0-multi-use-locker-52005",
+      "variants": [
+        {
+          "stock_status": "IN STOCK",
+          "variant_id": "39933294280884",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52005.jpg?v=1663759420",
+          "price": "832.49",
+          "variant_sku": "52005",
+          "variant_compare_at_price": "1149.99",
+          "swatch": "Gray / 1",
+          "option1": "Gray",
+          "option2": "1",
+          "option3": "",
+          "isRegional": "YES"
+        },
+        {
+          "stock_status": "IN STOCK",
+          "variant_id": "41887185600692",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52005_f8b961db-c488-4b77-b487-ee6503bdd4e6.jpg?v=1663759489",
+          "price": "",
+          "variant_sku": "52005x2",
+          "variant_compare_at_price": "",
+          "swatch": "Gray / 2",
+          "option1": "Gray",
+          "option2": "2",
+          "option3": "",
+          "isRegional": "NO"
+        },
+        {
+          "stock_status": "IN STOCK",
+          "variant_id": "41887185633460",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52005_4399a08a-fffd-4933-96b2-a340900889d1.jpg?v=1663759489",
+          "price": "",
+          "variant_sku": "52005x3",
+          "variant_compare_at_price": "",
+          "swatch": "Gray / 3",
+          "option1": "Gray",
+          "option2": "3",
+          "option3": "",
+          "isRegional": "NO"
+        },
+        {
+          "stock_status": "IN STOCK",
+          "variant_id": "41887185666228",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52005_5c71fd45-57d8-481e-825f-18de70e6a237.jpg?v=1663759489",
+          "price": "",
+          "variant_sku": "52005x4",
+          "variant_compare_at_price": "",
+          "swatch": "Gray / 4",
+          "option1": "Gray",
+          "option2": "4",
+          "option3": "",
+          "isRegional": "NO"
+        }
+      ]
+    },
+    {
+      "product_id": "6930995249332",
+      "tags": "add_ons_PMT, Hide_from_store, Individual_product, PIP Status: Redesign",
+      "title": "Pro Series 36 In. Multi-Use Locker",
+      "url": "pro-series-36-in-multi-use-locker-52005ao",
+      "variants": [
+        {
+          "stock_status": "IN STOCK",
+          "variant_id": "40850058870964",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52005_a5e91ac1-63e8-4586-9478-79d3a1d260b6.jpg?v=1634900202",
+          "price": "1063.74",
+          "variant_sku": "52005AO",
+          "variant_compare_at_price": "1149.99",
+          "swatch": "Gray",
+          "option1": "Gray",
+          "option2": "",
+          "option3": "",
+          "isRegional": "YES"
+        }
+      ]
+    },
+    {
+      "product_id": "6580229996724",
+      "tags": "BMSM, BMSM_Revised, Cabinet Type: Base Cabinets, Category: Garage, Color: Black, Color: Gray, Color: Platinum, Color: Red, Configurations: Individual Cabinets, Door Colour: Black, Door Colour: Charcoal Gray, Door Colour: Deep Red, Door Colour: Platinum, Features: Large Storage Solutions, Features: Locker Included, Gauge Thickness: 18-gauge (Best), Individual_product, PIP Status: Redesign, Pro Series Individuals, Product Line: Pro, Product Type: Cabinets, Product Type: Lockers, Product Type: Storage Cabinets, right_swatch_dropdown, Series: Pro, Subcategory: Garage Cabinets, Subcategory: Garage Storage, Volume_locker_pricing",
+      "title": "Pro Series 42 in. Multi-Use Locker",
+      "url": "pro-series-42-in-multi-use-locker-52643",
+      "variants": [
+        {
+          "stock_status": "OUT OF STOCK",
+          "variant_id": "39476747108532",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52643_100_Primary01.jpg?v=1623066317",
+          "price": "1109.99",
+          "variant_sku": "52643",
+          "variant_compare_at_price": "1279.99",
+          "swatch": "Gray / 1",
+          "option1": "Gray",
+          "option2": "1",
+          "option3": "",
+          "isRegional": "YES"
+        },
+        {
+          "stock_status": "OUT OF STOCK",
+          "variant_id": "41887333679284",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52643_100_Primary01_82288193-c8f9-4ed5-89ff-7822bf7bb801.jpg?v=1663761134",
+          "price": "",
+          "variant_sku": "52643x2",
+          "variant_compare_at_price": "",
+          "swatch": "Gray / 2",
+          "option1": "Gray",
+          "option2": "2",
+          "option3": "",
+          "isRegional": "NO"
+        },
+        {
+          "stock_status": "OUT OF STOCK",
+          "variant_id": "41887333712052",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52643_100_Primary01_611a40b6-a3f6-45df-b573-0cbd9f7e6882.jpg?v=1663761300",
+          "price": "",
+          "variant_sku": "52643x3",
+          "variant_compare_at_price": "",
+          "swatch": "Gray / 3",
+          "option1": "Gray",
+          "option2": "3",
+          "option3": "",
+          "isRegional": "NO"
+        },
+        {
+          "stock_status": "OUT OF STOCK",
+          "variant_id": "41887333744820",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52643_100_Primary01_503deb0f-5e4c-41fb-a2f2-123600374045.jpg?v=1663761417",
+          "price": "",
+          "variant_sku": "52643x4",
+          "variant_compare_at_price": "",
+          "swatch": "Gray / 4",
+          "option1": "Gray",
+          "option2": "4",
+          "option3": "",
+          "isRegional": "NO"
+        }
+      ]
+    },
+    {
+      "product_id": "6930991251636",
+      "tags": "add_ons_PMT, Hide_from_store, Individual_product, PIP Status: Redesign",
+      "title": "Pro Series 42 in. Multi-Use Locker",
+      "url": "pro-series-42-in-multi-use-locker-52643ao",
+      "variants": [
+        {
+          "stock_status": "OUT OF STOCK",
+          "variant_id": "40850036424884",
+          "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/52643_100_Primary01_862b6bf9-3753-4689-824e-53676bd9b87b.jpg?v=1634899659",
+          "price": "1183.99",
+          "variant_sku": "52643AO",
+          "variant_compare_at_price": "1279.99",
+          "swatch": "Gray",
+          "option1": "Gray",
+          "option2": "",
+          "option3": "",
+          "isRegional": "YES"
+        }
+      ]
+    }
+  ]
+}

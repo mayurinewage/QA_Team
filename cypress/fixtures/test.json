@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "price_data_status": [
+    {
+      "product_id": "4445380411458",
+      "title": "46 in. T-Molding Transition Strip 9.5mm",
+      "url": "46-in-t-molding-transition-strip-12030",
+      "stock_status": "IN STOCK",
+      "variant_id": "31586524987458",
+      "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/vpkcwcy8pwr29oznrlip.jpg?v=1656417686",
+      "price": "16.79",
+      "variant_sku": "12030",
+      "variant_compare_at_price": "20.99",
+      "swatch": "Natural Oak",
+      "option1": "Natural Oak",
+      "option2": "",
+      "option3": "",
+      "isRegional": "NO"
+    },
+    {
+      "product_id": "4686897184834",
+      "title": "46 in. T-Molding Transition Strip 9.5mm",
+      "url": "46-in-t-molding-transition-strip",
+      "stock_status": "IN STOCK",
+      "variant_id": "32452627464258",
+      "image": "https://cdn.shopify.com/s/files/1/1428/2706/products/vpkcwcy8pwr29oznrlip_713da0b9-d621-45d1-9130-17af3a594823.jpg?v=1600268899",
+      "price": "20.99",
+      "variant_sku": "12030AO",
+      "variant_compare_at_price": "",
+      "swatch": "Natural Oak",
+      "option1": "Natural Oak",
+      "option2": "",
+      "option3": "",
+      "isRegional": "NO"
+    }
+  ]
+}

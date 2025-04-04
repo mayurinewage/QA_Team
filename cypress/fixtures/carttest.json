@@ -1,0 +1,29 @@
+{
+  "zonal_charge": 0,
+  "wg_charge": 812,
+  "serviceable": true,
+  "installation_available": true,
+  "installation_sku": {
+    "INSTGARAGECAB": [
+      "50406:5549.97"
+    ],
+    "INSTHOMEBAR": [
+      "61203:1319.97"
+    ]
+  },
+  "installation_titles": {
+    "INSTGARAGECAB": "Garage Installation",
+    "INSTHOMEBAR": "Home Bar Installation"
+  },
+  "installation_price": {
+    "INSTGARAGECAB": 1221,
+    "INSTHOMEBAR": 290
+  },
+  "installation_variant_id": {
+    "INSTGARAGECAB": "32465095295042",
+    "INSTHOMEBAR": "32465095589954"
+  },
+  "total_installation": 1511,
+  "installation_surcharge": 0,
+  "success": true
+}
